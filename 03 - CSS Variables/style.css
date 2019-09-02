@@ -1,0 +1,38 @@
+    :root {
+        --base: #7e4a35;
+        --spacing: 50px;
+        --blur: 10px;
+    }
+
+    img {
+        padding: var(--spacing);
+        background: var(--base);
+        filter: blur(var(--blur));
+
+    }
+
+    .hl {
+        color: var(--base);
+    }
+    /*
+        music styles, nothing to do with CSS variable
+    */
+
+    body {
+        text-align: center;
+        background: #ffcc5c;
+        color: white;
+        font-family: 'helvetica neue', sans-serif;
+        font-weight: 100;
+        font-size: 50px;
+        border-top: 100px;
+    }
+
+    .improve-image {
+        width: 700px;
+        height: 400px;
+    }
+
+    .controls {
+        margin-bottom: 50px;
+    }
