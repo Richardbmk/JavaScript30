@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dd950f7-0008-4c7d-97dc-f1e88e0ddcfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/08 - Fun with HTML5 Canvas/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 - Fun with HTML5 Canvas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 - Fun with HTML5 Canvas/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 - Dev Tools Domination/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 - Dev Tools Domination/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,18 +19,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QEvLZqJ2cwnnv480B5z3v58u4Z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/02 - JS and CSS Clock" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/09 - Dev Tools Domination" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Richard\Desktop\RICARDO\ÉXITO\IT KNOWLEDGE\The Web Developer BootCamp Course\JavaScript-Fundamentals\JavaScript30\02 - JS and CSS Clock" />
+      <recent name="C:\Users\Richard\Desktop\RICARDO\ÉXITO\IT KNOWLEDGE\The Web Developer BootCamp Course\JavaScript-Fundamentals\JavaScript30\09 - Dev Tools Domination" />
       <recent name="C:\Users\Richard\Desktop\RICARDO\ÉXITO\IT KNOWLEDGE\The Web Developer BootCamp Course\JavaScript-Fundamentals\JavaScript30" />
-      <recent name="C:\Users\Richard\Desktop\RICARDO\ÉXITO\IT KNOWLEDGE\The Web Developer BootCamp Course\JavaScript-Fundamentals\JavaScript30\06 - Type Ahead" />
-      <recent name="C:\Users\Richard\Desktop\RICARDO\ÉXITO\IT KNOWLEDGE\The Web Developer BootCamp Course\JavaScript-Fundamentals\JavaScript30\05 - Flex Panel Gallery" />
-      <recent name="C:\Users\Richard\Desktop\RICARDO\ÉXITO\IT KNOWLEDGE\The Web Developer BootCamp Course\JavaScript-Fundamentals\JavaScript30\01 - JavaScript Drum Kit" />
+      <recent name="C:\Users\Richard\Desktop\RICARDO\ÉXITO\IT KNOWLEDGE\The Web Developer BootCamp Course\JavaScript-Fundamentals\JavaScript30\08 - Fun with HTML5 Canvas" />
+      <recent name="C:\Users\Richard\Desktop\RICARDO\ÉXITO\IT KNOWLEDGE\The Web Developer BootCamp Course\JavaScript-Fundamentals\JavaScript30\07 - Array Cardio Day 2" />
+      <recent name="C:\Users\Richard\Desktop\RICARDO\ÉXITO\IT KNOWLEDGE\The Web Developer BootCamp Course\JavaScript-Fundamentals\JavaScript30\02 - JS and CSS Clock" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -59,7 +65,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
