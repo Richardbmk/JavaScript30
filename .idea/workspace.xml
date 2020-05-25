@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dd950f7-0008-4c7d-97dc-f1e88e0ddcfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12 - Key Sequence Detection/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12 - Key Sequence Detection/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 - Slide in on Scroll/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 - Slide in on Scroll/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 - Slide in on Scroll/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 - JavaScript References VS Copying/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 - JavaScript References VS Copying/index-START.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 - CSS Variables/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/03 - CSS Variables/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,15 +21,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/13 - Slide in on Scroll" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../WebProject_byme/nodebasic" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Richard\Desktop\RICARDO\ÉXITO\IT KNOWLEDGE\The Web Developer BootCamp Course\JavaScript-Fundamentals\JavaScript30\13 - Slide in on Scroll" />
+      <recent name="C:\Users\Richard\Desktop\RICARDO\ÉXITO\IT KNOWLEDGE\The Web Developer BootCamp Course\JavaScript-Fundamentals\JavaScript30\14 - JavaScript References VS Copying" />
       <recent name="C:\Users\Richard\Desktop\RICARDO\ÉXITO\IT KNOWLEDGE\The Web Developer BootCamp Course\JavaScript-Fundamentals\JavaScript30" />
+      <recent name="C:\Users\Richard\Desktop\RICARDO\ÉXITO\IT KNOWLEDGE\The Web Developer BootCamp Course\JavaScript-Fundamentals\JavaScript30\13 - Slide in on Scroll" />
       <recent name="C:\Users\Richard\Desktop\RICARDO\ÉXITO\IT KNOWLEDGE\The Web Developer BootCamp Course\JavaScript-Fundamentals\JavaScript30\12 - Key Sequence Detection" />
       <recent name="C:\Users\Richard\Desktop\RICARDO\ÉXITO\IT KNOWLEDGE\The Web Developer BootCamp Course\JavaScript-Fundamentals\JavaScript30\10 - Hold Shift and Check Checkboxes" />
-      <recent name="C:\Users\Richard\Desktop\RICARDO\ÉXITO\IT KNOWLEDGE\The Web Developer BootCamp Course\JavaScript-Fundamentals\JavaScript30\09 - Dev Tools Domination" />
     </key>
   </component>
   <component name="RunDashboard">
