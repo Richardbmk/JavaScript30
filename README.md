@@ -43,7 +43,7 @@ Check the original course at [https://JavaScript30.com](https://JavaScript30.com
 22. [x] [Follow Along Link Highlighter](https://richardbmk.github.io/JavaScript30/22%20-%20Follow%20Along%20Link%20Highlighter)
 23. [ ] [Speech Synthesis]()
 24. [x] [Sticky Nav](https://richardbmk.github.io/JavaScript30/24%20-%20Sticky%20Nav)
-25. [ ] [Event Capture, Propagation, Bubbling, and Once]()
+25. [x] [Event Capture, Propagation, Bubbling, and Once](https://richardbmk.github.io/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once)
 26. [ ] [Stripe Follow Along Nav]()
 27. [ ] [Click and Drag]()
 28. [ ] [Video Speed Controller]()
