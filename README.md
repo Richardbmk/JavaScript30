@@ -46,6 +46,6 @@ Check the original course at [https://JavaScript30.com](https://JavaScript30.com
 25. [x] [Event Capture, Propagation, Bubbling, and Once](https://richardbmk.github.io/JavaScript30/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once)
 26. [ ] [Stripe Follow Along Nav]()
 27. [ ] [Click and Drag]()
-28. [ ] [Video Speed Controller]()
+28. [x] [Video Speed Controller](https://richardbmk.github.io/JavaScript30/28%20-%20Video%20Speed%20Controller)
 29. [ ] [Countdown Timer]()
 30. [ ] [Whack A Mole]()
