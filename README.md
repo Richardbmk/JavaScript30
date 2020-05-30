@@ -29,7 +29,7 @@ Check the original course at [https://JavaScript30.com](https://JavaScript30.com
 8. [x] [Fun with HTML5 Canvas](https://richardbmk.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/)
 9. [x] [Dev Tools Domination](https://richardbmk.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/)
 10. [x] [Hold Shift and Check Checkboxes](https://richardbmk.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/)
-11. [ ] [Custom Video Player]()
+11. [x] [Custom Video Player](https://richardbmk.github.io/JavaScript30/11%20-%20Custom%20Video%20Player)
 12. [x] [Key Sequence Detection](https://richardbmk.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/)
 13. [x] [Slide in on Scroll](https://richardbmk.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/)
 14. [x] [JavaScript References vs. Copying](https://richardbmk.github.io/JavaScript30/14%20-%20JavaScript%20References%20VS%20Copying/)
