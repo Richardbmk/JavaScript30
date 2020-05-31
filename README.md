@@ -38,7 +38,7 @@ Check the original course at [https://JavaScript30.com](https://JavaScript30.com
 17. [x] [Sort Without Articles](https://richardbmk.github.io/JavaScript30/17%20-%20Sort%20Without%20Articles/)
 18. [x] [Adding Up Times with Reduce](https://richardbmk.github.io/JavaScript30/18%20-%20Adding%20Up%20Times%20with%20Reduce)
 19. [ ] [Webcam Fun]()
-20. [ ] [Speech Detection]()
+20. [x] [Speech Detection](https://richardbmk.github.io/JavaScript30/20%20-%20Speech%20Detection)
 21. [x] [Geolocation](https://richardbmk.github.io/JavaScript30/21%20-%20Geolocation)
 22. [x] [Follow Along Link Highlighter](https://richardbmk.github.io/JavaScript30/22%20-%20Follow%20Along%20Link%20Highlighter)
 23. [ ] [Speech Synthesis]()
